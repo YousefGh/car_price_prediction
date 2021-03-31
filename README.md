@@ -1,4 +1,5 @@
 # Car Price Prediction (Simple Regression)
+The project was done around a year ago, with limited project time (Around 3 days)
 
 ## Outline
 - Introduction
